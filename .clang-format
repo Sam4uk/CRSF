@@ -1,6 +1,4 @@
----
 Language:        Cpp
 BasedOnStyle:  Google
 AlignConsecutiveMacros: true
 AlignEscapedNewlines: Right
-...
