@@ -1,0 +1,19 @@
+/**
+ * @file CRSF
+ * @author Sam4uk
+ *
+ * @copyright Copyright (c) 2024
+ *
+ */
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange",
+		"workbench.colorTheme": "Elegant Red",
+		"workbench.iconTheme": "vscode-great-icons"
+	}
+}
